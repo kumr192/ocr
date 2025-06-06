@@ -1,11 +1,1 @@
 streamlit
-aiohttp
-aiobotocore
-markdown-it-py
-mdurl
-rich
-openai
-pytesseract
-pdfplumber
-torch
-opencv-python
